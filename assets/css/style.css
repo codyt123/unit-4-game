@@ -1,0 +1,47 @@
+img {
+    height: 200px;
+    width:200px
+}
+.jumbotron {
+    background: gold;
+}
+#jumboTitle {
+    color:whitesmoke;
+}
+.btn {
+    margin:0 auto;
+}
+.instructions {
+    text-decoration: underline;
+    color: darkred
+}
+#blank{
+    visibility: hidden;
+}
+
+#result {
+    color: red
+}
+.row {
+    text-align:center;
+}
+
+.col-md-2:not(#heading){
+    margin:2%;
+    background-color:whitesmoke;
+    text-align:center;
+}
+.col-md-4{
+    margin:2%;
+    color:whitesmoke;
+    text-align:center;
+}
+#heading {
+    margin:2%;
+    color:whitesmoke;
+    text-align:center;
+
+}
+body {
+    background: black;
+}
